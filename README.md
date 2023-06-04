@@ -1,9 +1,4 @@
 # User-SignUp-SignIn
-<style>
-    .image-container {
-        margin-bottom: 20px; /* Adjust this value to set the desired margin between images */
-    }
-</style>
 
 <div class="image-container">
     <img src="https://github.com/janithht/User-SignUp-SignIn/assets/92964360/0a2864cf-3547-4ec5-9d97-5a4835bc9576" alt="Image 1">
