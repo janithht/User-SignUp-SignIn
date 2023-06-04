@@ -1,7 +1,6 @@
 // ignore_for_file: prefer_const_constructors, slash_for_doc_comments
 
 import 'package:flutter/material.dart';
-import 'package:frontend/gallery.dart';
 import 'package:frontend/loginscreen.dart';
 
 /**
@@ -29,10 +28,7 @@ class _HomepageState extends State<Homepage> {
                   icon: Icon(Icons.photo_album_outlined),
                   color: Colors.black,
                   onPressed: () {
-                    Navigator.push(
-                      context,
-                      MaterialPageRoute(builder: (context) => ImageGallery()),
-                    );
+                    
                   },
                 ),
               ),
