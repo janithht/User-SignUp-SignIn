@@ -2,7 +2,7 @@
 
 <div style="display: flex; margin-bottom: 100px;">
   <img src="https://github.com/janithht/User-SignUp-SignIn/assets/92964360/0a2864cf-3547-4ec5-9d97-5a4835bc9576" alt="Image 1" style="margin-right: 100px; ">
-  <img src="https://github.com/janithht/User-SignUp-SignIn/assets/92964360/761e8eb7-9bf8-4f03-8337-ea1b761a0362" alt="Image 2" style="margin-right: 100px;">
+  
 </div>
 
 <div style="display: flex; margin-bottom: 100px;"> 
